@@ -1,0 +1,24 @@
+## .NET / Visual Studio / Rider / VS Code
+bin/
+obj/
+out/
+TestResults/
+coverage*/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+
+## Logs & Temp
+*.log
+*.tmp
+*.bak
+
+## OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
